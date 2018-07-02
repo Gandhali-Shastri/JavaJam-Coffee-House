@@ -17,9 +17,9 @@ Pages with forms:
  2. Orders.php
  
 Functionalities:
-  The users can check the prices of different menu items.
-  The users can apply for jobs.
-  The users can buy different products.
-  They can also check for the latest performances which are going to take place in the cafe.
-  They can also locate the cafe and contact the owners through the website.
+ 1. The users can check the prices of different menu items.
+ 2. The users can apply for jobs.
+ 3. The users can buy different products.
+ 4. They can also check for the latest performances which are going to take place in the cafe.
+ 5. They can also locate the cafe and contact the owners through the website.
 
